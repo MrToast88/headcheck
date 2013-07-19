@@ -1,0 +1,11 @@
+# Head Check
+
+A simple Sinatra app for checking the status of developer's heads.
+
+Live at: `http://headcheck.herokuapp.com/<name>`
+
+## TODO
+
+* Styling
+* JSON API
+* Integrate w/ Kinect for improved accuracy
