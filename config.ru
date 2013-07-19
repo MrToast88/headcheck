@@ -1,3 +1,3 @@
-require './hello'
+require './headcheck'
 
 run Sinatra::Application
